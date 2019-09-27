@@ -1,8 +1,3 @@
-/**
- * Created by mac on 01/10/2018.
- */
-
-
 var response = require('./index');
 var mongoose = require('mongoose');
 var objectId = mongoose.Types.ObjectId;

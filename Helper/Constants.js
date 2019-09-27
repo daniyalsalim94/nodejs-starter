@@ -1,6 +1,4 @@
-/**
- * Created by mac on 08/10/2018.
- */
+
 "use strict";
 
 module.exports = {
